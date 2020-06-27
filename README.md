@@ -7,28 +7,28 @@ I am a beginner software tester. I constantly develop my skills by participating
 # Skills
 
 * Testing tools:
- * Jira
- * Devtools
- * Bug Magnet
- * xpath Finder
- * Screenpresso 
- * AZ Screen Recorder
- * Selenium IDE
- * Postman (basics)
- * SOAP UI (basics)
- * GITLab & GITHub (basics)
+  * Jira
+  * Devtools
+  * Bug Magnet
+  * xpath Finder
+  * Screenpresso 
+  * AZ Screen Recorder
+  * Selenium IDE
+  * Postman (basics)
+  * SOAP UI (basics)
+  * GITLab & GITHub (basics)
 
 * Other tools and systems:
- * MySQL (basics)
- * Quantum GIS
- * systemy CRM
- * Blogspot
- * Wordpress (basics)
- * Inkscape
- * Canva
+  * MySQL (basics)
+  * Quantum GIS
+  * systemy CRM
+  * Blogspot
+  * Wordpress (basics)
+  * Inkscape
+  * Canva
 
 * Languages:
- * English (B2)
+  * English (B2)
  
  # Certificates
  ISTQB Certified Tester Foundation Level (73610) 
