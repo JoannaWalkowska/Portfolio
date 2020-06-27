@@ -45,6 +45,7 @@ I am a beginner software tester. I constantly develop my skills by participating
 * [ZawódTester] (https://www.youtube.com/channel/UCUJzan4zBUpWwS1yWZZCwUw)
 * [QAFox] (https://www.youtube.com/channel/UCH5Lo7qKaAsoN4OXAsNoBbA)
 * [testuj.pl] (https://www.youtube.com/channel/UC5nfCVMCEhYjCgnUoufoLhw)
+* [RemigiuszBednarczyk] (https://remigiuszbednarczyk.pl/)
 
 # My Test Documentation
 * Test Cases:
