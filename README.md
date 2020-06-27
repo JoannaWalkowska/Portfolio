@@ -54,9 +54,9 @@ I am a beginner software tester. I constantly develop my skills by participating
   * Polskie Szlaki (https://drive.google.com/file/d/1SCTuGZ4quzzbJlB6qlTJb4luFcKPHcc8/view?usp=sharing)
 
  * Tests in Selenium IDE:
-  * SIP-Poznań (https://drive.google.com/file/d/1E1g3j1u-gqRSMRSjbp28hyvYiX85lNPS/view?usp=sharing)
+   * SIP-Poznań (https://drive.google.com/file/d/1E1g3j1u-gqRSMRSjbp28hyvYiX85lNPS/view?usp=sharing)
   
  * Bugs Reports:
-  * Polskie Szlaki-błędy (https://drive.google.com/file/d/1cLwVdrCuFwfuwzjcnKarj2Kldeh-NygZ/view?usp=sharing)
-  * Carrefour (https://docs.google.com/document/d/1fBCJVAOAgYqkwrcKOlE7LnI4uigZDKZHW27ax-Bxje8/edit?usp=sharing)
-  * Znany Lekarz (https://docs.google.com/spreadsheets/d/19NdmucEf63P5ELznGNXnYEsG_x8j7Ca9tZYS3YTweNE/edit?usp=sharing)
+   * Polskie Szlaki-błędy (https://drive.google.com/file/d/1cLwVdrCuFwfuwzjcnKarj2Kldeh-NygZ/view?usp=sharing)
+   * Carrefour (https://docs.google.com/document/d/1fBCJVAOAgYqkwrcKOlE7LnI4uigZDKZHW27ax-Bxje8/edit?usp=sharing)
+   * Znany Lekarz (https://docs.google.com/spreadsheets/d/19NdmucEf63P5ELznGNXnYEsG_x8j7Ca9tZYS3YTweNE/edit?usp=sharing)
