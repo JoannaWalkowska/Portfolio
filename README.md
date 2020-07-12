@@ -62,6 +62,4 @@ I am a beginner software tester. I constantly develop my skills by participating
    * [Carrefour](https://docs.google.com/document/d/1fBCJVAOAgYqkwrcKOlE7LnI4uigZDKZHW27ax-Bxje8/edit?usp=sharing)
    * [Scribble Maps](https://drive.google.com/drive/folders/1xcg5jwIdNmYhp-uivmFjEboAsCcdDKOS?usp=sharing)
    * [Znany Lekarz](https://docs.google.com/spreadsheets/d/19NdmucEf63P5ELznGNXnYEsG_x8j7Ca9tZYS3YTweNE/edit?usp=sharing)
- 
- * Tests in Progress:
    * [Pocket CRM](https://drive.google.com/drive/folders/19aGVHLCRdC8GZDRlVEojh0uXrPs5BgZt?usp=sharing)
